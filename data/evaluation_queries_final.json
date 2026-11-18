@@ -1,0 +1,352 @@
+[
+    {
+        "query_id": "Q01",
+        "query": "ما هي البرامج المتاحة في مرحلة الماجستير؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0005"
+        ]
+    },
+    {
+        "query_id": "Q02",
+        "query": "هل تقدم الجامعة برامج للبكالوريوس؟ وما هي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0004"
+        ]
+    },
+    {
+        "query_id": "Q03",
+        "query": "هل توجد برامج دكتوراه في الجامعة؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0006"
+        ]
+    },
+    {
+        "query_id": "Q04",
+        "query": "بأي لغة يتم تقديم المقررات الدراسية؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0001"
+        ]
+    },
+    {
+        "query_id": "Q05",
+        "query": "كم تستغرق الدراسة في الجامعة؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0003"
+        ]
+    },
+    {
+        "query_id": "Q06",
+        "query": "هل يستطيع الطالب تأجيل الفصل الدراسي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0023"
+        ]
+    },
+    {
+        "query_id": "Q07",
+        "query": "ماذا يفعل الطالب إذا أراد تغيير تخصصه؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0008"
+        ]
+    },
+    {
+        "query_id": "Q08",
+        "query": "ما المقصود بالاختبار الأسبوعي القصير؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0009"
+        ]
+    },
+    {
+        "query_id": "Q09",
+        "query": "متى يمكن للطالب التقدم للاختبار التكميلي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0010"
+        ]
+    },
+    {
+        "query_id": "Q10",
+        "query": "كيف يحصل الطالب على الشهادة بعد إكمال دراسته؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0014"
+        ]
+    },
+    {
+        "query_id": "Q11",
+        "query": "ما شروط قبول الطالب الجديد في برنامج البكالوريوس؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0015"
+        ]
+    },
+    {
+        "query_id": "Q12",
+        "query": "ما متطلبات الالتحاق ببرنامج الماجستير؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0016"
+        ]
+    },
+    {
+        "query_id": "Q13",
+        "query": "ما شروط القبول في برامج الدكتوراه؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0017"
+        ]
+    },
+    {
+        "query_id": "Q14",
+        "query": "كيف تتم عملية القبول في برامج الدكتوراه؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0018"
+        ]
+    },
+    {
+        "query_id": "Q15",
+        "query": "ماذا يحدث عند التغيب عن الاختبار النهائي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0021"
+        ]
+    },
+    {
+        "query_id": "Q16",
+        "query": "هل يمكن حذف مقرر دراسي بعد التسجيل فيه؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0024"
+        ]
+    },
+    {
+        "query_id": "Q17",
+        "query": "ما شروط إعادة قيد الطالب الذي توقف عن الدراسة لأربعة فصول دراسية أو أقل؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0026"
+        ]
+    },
+    {
+        "query_id": "Q18",
+        "query": "ما الإجراءات المطلوبة لإعادة قيد الطالب الذي توقف عن الدراسة لأكثر من أربعة فصول دراسية؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0027"
+        ]
+    },
+    {
+        "query_id": "Q19",
+        "query": "كيف يمكن للطالب التواصل مع الجامعة؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0030"
+        ]
+    },
+    {
+        "query_id": "Q20",
+        "query": "ما المتطلبات اللازمة لطلب معادلة المقررات؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0031"
+        ]
+    },
+    {
+        "query_id": "Q21",
+        "query": "ما الشروط المطلوبة لمعادلة المقررات؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0032"
+        ]
+    },
+    {
+        "query_id": "Q22",
+        "query": "كم تبلغ رسوم معادلة المقرر الواحد؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0033"
+        ]
+    },
+    {
+        "query_id": "Q23",
+        "query": "هل يمكن تقسيط رسوم معادلة المقررات؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0033"
+        ]
+    },
+    {
+        "query_id": "Q24",
+        "query": "هل تؤثر معادلة المقرر على المعدل التراكمي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0034"
+        ]
+    },
+    {
+        "query_id": "Q25",
+        "query": "كيف يتم التحقق من السجلات الأكاديمية؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0036"
+        ]
+    },
+    {
+        "query_id": "Q26",
+        "query": "ما الخطوات المطلوبة لسداد الرسوم؟",
+        "relevant_chunk_ids": [
+            "DOC_002_CHUNK_0038"
+        ]
+    },
+    {
+        "query_id": "Q27",
+        "query": "كيف يمكن للطالب دفع الرسوم الدراسية إلكترونيًا؟",
+        "relevant_chunk_ids": [
+            "DOC_002_CHUNK_0038"
+        ]
+    },
+    {
+        "query_id": "Q28",
+        "query": "ما العملة المستخدمة في سداد الرسوم؟",
+        "relevant_chunk_ids": [
+            "DOC_002_CHUNK_0043"
+        ]
+    },
+    {
+        "query_id": "Q29",
+        "query": "هل يمكن الدفع باستخدام بطاقة بنكية؟",
+        "relevant_chunk_ids": [
+            "DOC_002_CHUNK_0038"
+        ]
+    },
+    {
+        "query_id": "Q30",
+        "query": "ماذا يفعل الطالب إذا واجه مشكلة أثناء سداد الرسوم؟",
+        "relevant_chunk_ids": [
+            "DOC_002_CHUNK_0038"
+        ]
+    },
+    {
+        "query_id": "Q31",
+        "query": "كم تبلغ مدة الفصل الدراسي في برامج البكالوريوس والماجستير؟",
+        "relevant_chunk_ids": [
+            "DOC_003_CHUNK_0060"
+        ]
+    },
+    {
+        "query_id": "Q32",
+        "query": "من هي الجهة المانحة للشهادة العلمية للطالب؟",
+        "relevant_chunk_ids": [
+            "DOC_003_CHUNK_0058"
+        ]
+    },
+    {
+        "query_id": "Q33",
+        "query": "ما لغة المناهج وشرح المقررات الدراسية في الجامعة؟",
+        "relevant_chunk_ids": [
+            "DOC_003_CHUNK_0061"
+        ]
+    },
+    {
+        "query_id": "Q34",
+        "query": "ما الإجراءات المتعلقة بالانسحاب من مقرر أو من الفصل الدراسي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0022"
+        ]
+    },
+    {
+        "query_id": "Q35",
+        "query": "ماذا يحدث عند الانسحاب من الفصل الدراسي؟",
+        "relevant_chunk_ids": [
+            "DOC_001_CHUNK_0022"
+        ]
+    },
+    {
+        "query_id": "Q36",
+        "query": "كيف يحصل الطالب على شهادة حضور دورة؟",
+        "relevant_chunk_ids": [
+            "DOC_004_CHUNK_0072"
+        ]
+    },
+    {
+        "query_id": "Q37",
+        "query": "هل يحصل الطالب على شهادة عند حضور ورشة عمل؟",
+        "relevant_chunk_ids": [
+            "DOC_004_CHUNK_0072"
+        ]
+    },
+    {
+        "query_id": "Q38",
+        "query": "كيف يمكن الحصول على شهادة الندوة أو الدورة؟",
+        "relevant_chunk_ids": [
+            "DOC_004_CHUNK_0072"
+        ]
+    },
+    {
+        "query_id": "Q39",
+        "query": "هل جامعة ميداوشن معتمدة؟",
+        "relevant_chunk_ids": [
+            "DOC_005_CHUNK_0074"
+        ]
+    },
+    {
+        "query_id": "Q40",
+        "query": "ما الجمعية التي انضمت إليها كلية المعلوماتية بجامعة ميداوشن؟",
+        "relevant_chunk_ids": [
+            "DOC_005_CHUNK_0076"
+        ]
+    },
+    {
+        "query_id": "Q41",
+        "query": "هل جامعة ميداوشن معتمدة في دول معينة؟",
+        "relevant_chunk_ids": [
+            "DOC_005_CHUNK_0079"
+        ]
+    },
+    {
+        "query_id": "Q42",
+        "query": "ماذا يحدث إذا انقطع الإنترنت أثناء الاختبار؟",
+        "relevant_chunk_ids": [
+            "DOC_006_CHUNK_0098"
+        ]
+    },
+    {
+        "query_id": "Q43",
+        "query": "كيف يتصرف الطالب عند انقطاع الكهرباء أثناء الاختبار؟",
+        "relevant_chunk_ids": [
+            "DOC_006_CHUNK_0098"
+        ]
+    },
+    {
+        "query_id": "Q44",
+        "query": "ما الحل إذا فقد الطالب الاتصال أثناء أداء الاختبار؟",
+        "relevant_chunk_ids": [
+            "DOC_006_CHUNK_0098"
+        ]
+    },
+    {
+        "query_id": "Q45",
+        "query": "ما الإجراءات المتبعة عند حدوث مشكلة تقنية أثناء الاختبار؟",
+        "relevant_chunk_ids": [
+            "DOC_006_CHUNK_0098"
+        ]
+    },
+    {
+        "query_id": "Q46",
+        "query": "ما القيم التي تقوم عليها السياسات المؤسسية لجامعة ميداوشن؟",
+        "relevant_chunk_ids": [
+            "DOC_007_CHUNK_0100"
+        ]
+    },
+    {
+        "query_id": "Q47",
+        "query": "ما أهداف السياسات المؤسسية لجامعة ميداوشن؟",
+        "relevant_chunk_ids": [
+            "DOC_007_CHUNK_0100"
+        ]
+    },
+    {
+        "query_id": "Q48",
+        "query": "ما أنواع الشهادات التي يمكن للطالب الحصول عليها عند المشاركة في الأنشطة الطلابية؟",
+        "relevant_chunk_ids": [
+            "DOC_004_CHUNK_0072"
+        ]
+    },
+    {
+        "query_id": "Q49",
+        "query": "ما الإجراءات المطلوبة لتأجيل الفصل لتجنب سداد الرسوم؟",
+        "relevant_chunk_ids": [
+            "DOC_003_CHUNK_0064"
+        ]
+    },
+    {
+        "query_id": "Q50",
+        "query": "ما الإجراءات التي يمكن اتباعها إذا واجه الطالب مشكلة في الاختبار الإلكتروني؟",
+        "relevant_chunk_ids": [
+            "DOC_006_CHUNK_0098"
+        ]
+    }
+]

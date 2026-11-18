@@ -1,0 +1,3 @@
+[server]
+# Avoids a known start-up error between Streamlit and PyTorch.
+fileWatcherType = "none"

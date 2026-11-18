@@ -1,0 +1,8 @@
+streamlit>=1.40
+rank-bm25==0.2.2
+sentence-transformers>=6.3
+transformers>=5.0
+torch>=2.2
+google-genai>=3.0.0
+numpy
+pytest
